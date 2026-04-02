@@ -38,6 +38,6 @@ The objective of this project is to perform data analysis on sales data and buil
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Images/dashboard.png)
+[![Sales Dashboard](Images/dashboard.png)](https://github.com/sanketdeshmukh2706/Sales-Analysis-Dashboard-Excel-Project-/blob/main/sales_dashboard.png.jpeg)
 
 
